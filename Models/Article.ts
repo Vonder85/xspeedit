@@ -1,6 +1,3 @@
-export class Article{
+export class Article {
     size!: number;
-    isPacked!: boolean;
-
-
 }

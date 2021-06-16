@@ -1,8 +1,4 @@
-import { Article } from "./Article";
-
-export class Box{
-    items!: string;
-
-    space!: number;
-
+export interface Box{
+    items: string;
+    space: number;
 }
