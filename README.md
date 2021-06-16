@@ -52,4 +52,6 @@ Et exécuter le projet
 node dist/index.js
 ```
 
-
+### **Axes d'améliorations**
+- TU
+- Classes
